@@ -87,7 +87,6 @@ npm run dev
 ### API Endpoints:
 - `GET /` - Health check
 - `GET /docs` - API documentation (Swagger)
-- `GET /api/sample` - Lấy dữ liệu mẫu
 - `POST /api/pack` - Thực hiện đóng gói
 
 ### Cấu trúc Backend:
